@@ -1,0 +1,15 @@
+
+person:
+  name: zhangsan
+  age: 18
+  list:
+    - cat
+    - dog
+    - pig
+  maps:
+    name: lisi
+    age: 16
+  map1: {name: wangwu,age: 17}
+  list1: [1,2,3]
+server:
+  port: 8082
