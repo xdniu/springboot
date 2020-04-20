@@ -12,6 +12,7 @@ public class HelloController {
         return "hello!!！";
     }
     public String nihao(){
+        System.out.println("nihao");
         return "nihao";
     }
 
